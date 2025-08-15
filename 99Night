@@ -61,7 +61,7 @@ a = Instance.new("ScreenGui", game.CoreGui)
 a.Name = "gg"
 
 b = Instance.new("Frame", a)
-b.Size = UDim2.new(0, 300, 0, 70)
+b.Size = UDim2.new(0, 250, 0, 90)
 b.Position = UDim2.new(0, 80, 0, 100)
 b.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 b.BorderSizePixel = 0
