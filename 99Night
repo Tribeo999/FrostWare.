@@ -63,7 +63,7 @@ a.Name = "gg"
 b = Instance.new("Frame", a)
 b.Size = UDim2.new(0, 200, 0, 90)
 b.Position = UDim2.new(0, 80, 0, 100)
-b.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+b.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 b.BorderSizePixel = 0
 b.Active = true
 b.Draggable = true
@@ -78,10 +78,10 @@ rainbowStroke(d)
 e = Instance.new("TextLabel", b)
 e.Size = UDim2.new(1, 0, 0, 30)
 e.BackgroundTransparency = 1
-e.Text = "Farm Diamond | CÃ¡o Mod"
-e.TextColor3 = Color3.fromRGB(255, 255, 255)
+e.Text = "Farm Diamond | Frostware"
+e.TextColor3 = Color3.fromRGB(0, 0, 255)
 e.Font = Enum.Font.GothamBold
-e.TextSize = 14
+e.TextSize = 15
 e.TextStrokeTransparency = 0.6
 
 f = Instance.new("TextLabel", b)
