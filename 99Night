@@ -61,7 +61,7 @@ a = Instance.new("ScreenGui", game.CoreGui)
 a.Name = "gg"
 
 b = Instance.new("Frame", a)
-b.Size = UDim2.new(0, 200, 0, 90)
+b.Size = UDim2.new(0, 300, 0, 70)
 b.Position = UDim2.new(0, 80, 0, 100)
 b.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 b.BorderSizePixel = 0
@@ -78,7 +78,7 @@ rainbowStroke(d)
 e = Instance.new("TextLabel", b)
 e.Size = UDim2.new(1, 0, 0, 30)
 e.BackgroundTransparency = 1
-e.Text = "Farm Diamond | Frostware"
+e.Text = "Farm Diamonds | Frostware"
 e.TextColor3 = Color3.fromRGB(0, 120, 255)
 e.Font = Enum.Font.GothamBold
 e.TextSize = 15
