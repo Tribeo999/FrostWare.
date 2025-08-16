@@ -81,14 +81,14 @@ e.BackgroundTransparency = 1
 e.Text = "Farm Diamonds | Frostware"
 e.TextColor3 = Color3.fromRGB(0, 120, 255)
 e.Font = Enum.Font.GothamBold
-e.TextSize = 15
+e.TextSize = 17
 e.TextStrokeTransparency = 0.6
 -- Icon Discord
 local icon = Instance.new("ImageLabel", b)
 icon.Size = UDim2.new(0, 20, 0, 20)
 icon.Position = UDim2.new(0, 10, 0, 80) -- cách lề trái 10px, cao 80px
 icon.BackgroundTransparency = 1
-icon.Image = "rbxassetid://6034996695" -- icon Discord
+icon.Image = "rbxassetid://8248378219" -- icon Discord
 
 -- Text Discord link
 local linkText = Instance.new("TextLabel", b)
